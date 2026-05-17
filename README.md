@@ -34,7 +34,7 @@ This project models a healthcare network system with facilities, providers, pati
 ## Team Project Note
 
 This was a group database project completed for COSC 4385.
-My contributions included work on: 
+My contributions included: 
 - Helped design the healthcare database schema
 - Worked on patient/provider/facility entities
 - Implemented SQL table creation and relationships
