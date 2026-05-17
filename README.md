@@ -7,9 +7,13 @@ This project models a healthcare network system with facilities, providers, pati
 ## Project Contents
 
 - Phase 1: EER design and assumptions
+  [Phase 1 document.pdf](https://github.com/user-attachments/files/27905956/Phase.1.document.pdf)
 - Phase 2: Relational schema and normalization
+  [Phase 2 Document.pdf](https://github.com/user-attachments/files/27905962/Phase.2.Document.pdf)
 - Phase 3: SQL implementation
+  [Phase 3 document.pdf](https://github.com/user-attachments/files/27905963/Phase.3.document.pdf)
 - Final Report: Complete database documentation
+  [Report Final Delivery.pdf](https://github.com/user-attachments/files/27905971/Report.Final.Delivery.pdf)
 
 ## Technologies Used
 
