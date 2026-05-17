@@ -1,11 +1,9 @@
 # HealthConnect Database System
-
 A healthcare database design and implementation project created for COSC 4385 Database Management Concepts.
 
 This project models a healthcare network system with facilities, providers, patients, appointments, memberships, insurance, billing records, wellness programs, and community engagement features.
 
 ## Project Contents
-
 - Phase 1: EER design and assumptions
   [Phase 1 document.pdf](https://github.com/user-attachments/files/27905956/Phase.1.document.pdf)
 - Phase 2: Relational schema and normalization
@@ -16,7 +14,6 @@ This project models a healthcare network system with facilities, providers, pati
   [Report Final Delivery.pdf](https://github.com/user-attachments/files/27905971/Report.Final.Delivery.pdf)
 
 ## Technologies Used
-
 - SQL
 - MySQL
 - EER Modeling
@@ -36,4 +33,9 @@ This project models a healthcare network system with facilities, providers, pati
 
 ## Team Project Note
 
-This was a group database project completed for COSC 4385. My contributions included work on database design, SQL implementation, documentation, and healthcare data modeling.
+This was a group database project completed for COSC 4385.
+My contributions included work on: 
+- Helped design the healthcare database schema
+- Worked on patient/provider/facility entities
+- Implemented SQL table creation and relationships
+- Assisted with normalization and relational mapping
