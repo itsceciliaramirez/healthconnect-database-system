@@ -1,4 +1,4 @@
-# HealthConnect Database System
+# HealthConnect Database & SQL Project
 A healthcare database design and implementation project created for COSC 4385 Database Management Concepts.
 
 This project models a healthcare network system with facilities, providers, patients, appointments, memberships, insurance, billing records, wellness programs, and community engagement features.
